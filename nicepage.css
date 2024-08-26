@@ -422,7 +422,6 @@ abbr[title] {
 b,
 strong {
   font-weight: inherit;
-  font-weight: bold;
 }
 dfn {
   font-style: italic;
@@ -43389,7 +43388,7 @@ a.u-link.u-text-hover-grey-90:hover {
         a.u-button-style.u-button-style.u-text-custom-color-7.active,
         a.u-button-style.u-button-style.u-text-custom-color-7[class*="u-border-"].active
         {
-            color: #cdcdcd !important;
+            color: #e4e4e4 !important;
         }
 
         /* hover */
@@ -44073,8 +44072,8 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-image-1 {
-    width: 283px;
-    height: 76px;
+    width: 205px;
+    height: 55px;
     margin-top: -46px;
     margin-bottom: 15px;
     margin-left: -20px;
@@ -44086,9 +44085,8 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-image-1 {
-  height: 181px;
-  width: 1167px;
-  margin: 20px auto 7px 0;
+  height: 100%;
+  width: 100%;
 }
 @media (max-width: 1199px) {
    .u-footer {

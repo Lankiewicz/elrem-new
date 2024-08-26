@@ -11,7 +11,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 0.3;
-  margin: 23px auto 0 10px;
+  margin: 23px auto 0 30px;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -45,7 +45,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 0.3;
-  margin: 37px auto 0 10px;
+  margin: 37px auto 0 30px;
 }
 
 .u-section-1 .u-container-layout-2 {
@@ -61,7 +61,7 @@
 
 .u-section-1 .u-list-1 {
   width: 1424px;
-  margin: 38px auto 0 10px;
+  margin: 38px auto 0 30px;
 }
 
 .u-section-1 .u-repeater-1 {
