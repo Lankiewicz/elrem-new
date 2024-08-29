@@ -21590,7 +21590,7 @@ a.pswp__share--download:hover {
   }
   to {
     transform-origin: center center;
-    transform: translate3d(-50% !important, -50% !important, 0);
+    transform: translate3d(-50% !important) -50% !important, 0);
     opacity: 1;
   }
 }
