@@ -13162,49 +13162,49 @@ section.u-image:not(.u-hover-box),
   display: none;
 }
 .u-absolute-hcenter {
-  left: 50% !important;
-  transform: translateX(-50%);
+  left: 49% !important;
+  transform: translateX(-49%);
 }
 @media (min-width: 1400px) {
   .u-absolute-hcenter-xxl {
-    left: 50% !important;
-    transform: translateX(-50%);
+    left: 49% !important;
+    transform: translateX(-49%);
   }
 }
 @media (min-width: 1200px) {
   .u-xl-mode .u-absolute-hcenter-xl {
-    left: 50% !important;
-    transform: translateX(-50%);
+    left: 49% !important;
+    transform: translateX(-49%);
   }
 }
 @media (min-width: 1200px) and (max-width: 1399px) {
   .u-xxl-mode .u-absolute-hcenter-xl {
-    left: 50% !important;
-    transform: translateX(-50%);
+    left: 49% !important;
+    transform: translateX(-49%);
   }
 }
 @media (min-width: 992px) and (max-width: 1199px) {
   .u-absolute-hcenter-lg {
-    left: 50% !important;
-    transform: translateX(-50%);
+    left: 49% !important;
+    transform: translateX(-49%);
   }
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .u-absolute-hcenter-md {
-    left: 50% !important;
+    left: 43% !important;
     transform: translateX(-50%);
   }
 }
 @media (min-width: 576px) and (max-width: 767px) {
   .u-absolute-hcenter-sm {
-    left: 50% !important;
-    transform: translateX(-50%);
+    left: 49% !important;
+    transform: translateX(-49%);
   }
 }
 @media (max-width: 575px) {
   .u-absolute-hcenter-xs {
-    left: 50% !important;
-    transform: translateX(-50%);
+    left: 47% !important;
+    transform: translateX(-49%);
   }
 }
 .u-absolute-vcenter {
